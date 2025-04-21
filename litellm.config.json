@@ -1,0 +1,10 @@
+{
+    "model_list": [
+      {
+        "model_name": "ollama/llama3.2",
+        "litellm_provider": "ollama",
+        "base_url": "http://localhost:11434"
+      }
+    ]
+  }
+  

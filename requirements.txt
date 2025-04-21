@@ -1,0 +1,8 @@
+langchain
+qdrant-client
+sentence-transformers
+transformers
+unstructured
+python-dotenv
+langchain_community
+llama-cpp-python
